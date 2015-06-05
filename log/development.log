@@ -1,0 +1,291 @@
+
+
+Started GET "/?nonce=1433526587047" for 189.125.22.90 at 2015-06-05 13:49:48 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"nonce"=>"1433526587047"}
+  Rendered /var/lib/gems/2.0.0/gems/railties-4.1.1/lib/rails/templates/rails/welcome/index.html.erb (22.9ms)
+Completed 200 OK in 106ms (Views: 97.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?nonce=1433526757920" for 189.125.22.90 at 2015-06-05 13:52:38 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"nonce"=>"1433526757920"}
+  Rendered /var/lib/gems/2.0.0/gems/railties-4.1.1/lib/rails/templates/rails/welcome/index.html.erb (0.1ms)
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?nonce=1433527176661" for 189.125.22.90 at 2015-06-05 13:59:37 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"nonce"=>"1433527176661"}
+  Rendered /var/lib/gems/2.0.0/gems/railties-4.1.1/lib/rails/templates/rails/welcome/index.html.erb (1.3ms)
+Completed 200 OK in 22ms (Views: 11.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome?nonce=1433527368365" for 189.125.22.90 at 2015-06-05 14:02:48 -0400
+Processing by PagesController#home as HTML
+  Parameters: {"nonce"=>"1433527368365"}
+  Rendered pages/home.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 1184ms (Views: 1182.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 189.125.22.90 at 2015-06-05 14:02:50 -0400
+
+
+Started GET "/assets/application.css?body=1" for 189.125.22.90 at 2015-06-05 14:02:50 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 189.125.22.90 at 2015-06-05 14:02:50 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 189.125.22.90 at 2015-06-05 14:02:50 -0400
+
+
+Started GET "/assets/communication.js?body=1" for 189.125.22.90 at 2015-06-05 14:02:50 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 189.125.22.90 at 2015-06-05 14:02:50 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 189.125.22.90 at 2015-06-05 14:02:50 -0400
+
+
+Started GET "/assets/application.js?body=1" for 189.125.22.90 at 2015-06-05 14:02:50 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 189.125.22.90 at 2015-06-05 14:03:00 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 189.125.22.90 at 2015-06-05 14:03:00 -0400
+
+
+Started GET "/assets/communication.js?body=1" for 189.125.22.90 at 2015-06-05 14:03:01 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 189.125.22.90 at 2015-06-05 14:03:01 -0400
+
+
+Started GET "/assets/application.js?body=1" for 189.125.22.90 at 2015-06-05 14:03:01 -0400
+
+
+Started GET "/welcome?nonce=1433527435334" for 189.125.22.90 at 2015-06-05 14:03:55 -0400
+Processing by PagesController#home as HTML
+  Parameters: {"nonce"=>"1433527435334"}
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 109ms (Views: 106.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 189.125.22.90 at 2015-06-05 14:03:55 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 189.125.22.90 at 2015-06-05 14:03:55 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 189.125.22.90 at 2015-06-05 14:03:55 -0400
+
+
+Started GET "/assets/application.css?body=1" for 189.125.22.90 at 2015-06-05 14:03:55 -0400
+
+
+Started GET "/assets/communication.js?body=1" for 189.125.22.90 at 2015-06-05 14:03:55 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 189.125.22.90 at 2015-06-05 14:03:55 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 189.125.22.90 at 2015-06-05 14:03:56 -0400
+
+
+Started GET "/assets/application.js?body=1" for 189.125.22.90 at 2015-06-05 14:03:56 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 189.125.22.90 at 2015-06-05 14:03:56 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 189.125.22.90 at 2015-06-05 14:03:56 -0400
+
+
+Started GET "/assets/communication.js?body=1" for 189.125.22.90 at 2015-06-05 14:03:56 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 189.125.22.90 at 2015-06-05 14:03:57 -0400
+
+
+Started GET "/assets/application.js?body=1" for 189.125.22.90 at 2015-06-05 14:03:57 -0400
+
+
+Started GET "/welcome?nonce=1433527459925" for 189.125.22.90 at 2015-06-05 14:04:20 -0400
+Processing by PagesController#home as HTML
+  Parameters: {"nonce"=>"1433527459925"}
+  Rendered pages/home.html.erb within layouts/application (7.8ms)
+Completed 200 OK in 43ms (Views: 41.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 189.125.22.90 at 2015-06-05 14:04:20 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 189.125.22.90 at 2015-06-05 14:04:20 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 189.125.22.90 at 2015-06-05 14:04:20 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 189.125.22.90 at 2015-06-05 14:04:20 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 189.125.22.90 at 2015-06-05 14:04:20 -0400
+
+
+Started GET "/assets/communication.js?body=1" for 189.125.22.90 at 2015-06-05 14:04:20 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 189.125.22.90 at 2015-06-05 14:04:20 -0400
+
+
+Started GET "/assets/application.js?body=1" for 189.125.22.90 at 2015-06-05 14:04:20 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 189.125.22.90 at 2015-06-05 14:04:21 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 189.125.22.90 at 2015-06-05 14:04:21 -0400
+
+
+Started GET "/assets/communication.js?body=1" for 189.125.22.90 at 2015-06-05 14:04:22 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 189.125.22.90 at 2015-06-05 14:04:22 -0400
+
+
+Started GET "/assets/application.js?body=1" for 189.125.22.90 at 2015-06-05 14:04:22 -0400
+
+
+Started GET "/welcome?nonce=1433527477413" for 189.125.22.90 at 2015-06-05 14:04:37 -0400
+Processing by PagesController#home as HTML
+  Parameters: {"nonce"=>"1433527477413"}
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 36ms (Views: 33.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/turbolinks.js?body=1" for 189.125.22.90 at 2015-06-05 14:04:37 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 189.125.22.90 at 2015-06-05 14:04:37 -0400
+
+
+Started GET "/assets/application.css?body=1" for 189.125.22.90 at 2015-06-05 14:04:37 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 189.125.22.90 at 2015-06-05 14:04:37 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 189.125.22.90 at 2015-06-05 14:04:37 -0400
+
+
+Started GET "/assets/communication.js?body=1" for 189.125.22.90 at 2015-06-05 14:04:38 -0400
+
+
+Started GET "/assets/application.js?body=1" for 189.125.22.90 at 2015-06-05 14:04:38 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 189.125.22.90 at 2015-06-05 14:04:38 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 189.125.22.90 at 2015-06-05 14:04:38 -0400
+
+
+Started GET "/assets/communication.js?body=1" for 189.125.22.90 at 2015-06-05 14:04:38 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 189.125.22.90 at 2015-06-05 14:04:38 -0400
+
+
+Started GET "/assets/application.js?body=1" for 189.125.22.90 at 2015-06-05 14:04:39 -0400
+
+
+Started GET "/welcome?nonce=1433527498392" for 189.125.22.90 at 2015-06-05 14:04:58 -0400
+Processing by PagesController#home as HTML
+  Parameters: {"nonce"=>"1433527498392"}
+  Rendered pages/home.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 32ms (Views: 31.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 189.125.22.90 at 2015-06-05 14:04:59 -0400
+
+
+Started GET "/assets/application.css?body=1" for 189.125.22.90 at 2015-06-05 14:04:59 -0400
+
+
+Started GET "/assets/communication.js?body=1" for 189.125.22.90 at 2015-06-05 14:04:59 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 189.125.22.90 at 2015-06-05 14:04:59 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 189.125.22.90 at 2015-06-05 14:04:59 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 189.125.22.90 at 2015-06-05 14:04:59 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 189.125.22.90 at 2015-06-05 14:04:59 -0400
+
+
+Started GET "/assets/application.js?body=1" for 189.125.22.90 at 2015-06-05 14:04:59 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 189.125.22.90 at 2015-06-05 14:04:59 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 189.125.22.90 at 2015-06-05 14:04:59 -0400
+
+
+Started GET "/assets/communication.js?body=1" for 189.125.22.90 at 2015-06-05 14:05:00 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 189.125.22.90 at 2015-06-05 14:05:01 -0400
+
+
+Started GET "/assets/application.js?body=1" for 189.125.22.90 at 2015-06-05 14:05:02 -0400
+
+
+Started GET "/welcome?nonce=1433527530806" for 189.125.22.90 at 2015-06-05 14:05:30 -0400
+Processing by PagesController#home as HTML
+  Parameters: {"nonce"=>"1433527530806"}
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 34ms (Views: 32.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 189.125.22.90 at 2015-06-05 14:05:31 -0400
+
+
+Started GET "/assets/application.css?body=1" for 189.125.22.90 at 2015-06-05 14:05:31 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 189.125.22.90 at 2015-06-05 14:05:31 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 189.125.22.90 at 2015-06-05 14:05:31 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 189.125.22.90 at 2015-06-05 14:05:31 -0400
+
+
+Started GET "/assets/communication.js?body=1" for 189.125.22.90 at 2015-06-05 14:05:31 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 189.125.22.90 at 2015-06-05 14:05:31 -0400
+
+
+Started GET "/assets/application.js?body=1" for 189.125.22.90 at 2015-06-05 14:05:31 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 189.125.22.90 at 2015-06-05 14:05:31 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 189.125.22.90 at 2015-06-05 14:05:32 -0400
+
+
+Started GET "/welcome?nonce=1433527543321" for 189.125.22.90 at 2015-06-05 14:05:43 -0400
+Processing by PagesController#home as HTML
+  Parameters: {"nonce"=>"1433527543321"}
+  Rendered pages/home.html.erb within layouts/application (0.0ms)
